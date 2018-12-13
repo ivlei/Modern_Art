@@ -1,6 +1,7 @@
 //add modern art code here
-background (255,255,255);
 size(500,500);
+background (255,255,255);
+
 
 noStroke();
 fill(0,0,255);
